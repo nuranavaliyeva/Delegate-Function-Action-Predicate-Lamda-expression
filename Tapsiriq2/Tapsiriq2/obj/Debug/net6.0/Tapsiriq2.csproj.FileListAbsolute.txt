@@ -1,0 +1,14 @@
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\bin\Debug\net6.0\Tapsiriq2.exe
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\bin\Debug\net6.0\Tapsiriq2.deps.json
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\bin\Debug\net6.0\Tapsiriq2.runtimeconfig.json
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\bin\Debug\net6.0\Tapsiriq2.dll
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\bin\Debug\net6.0\Tapsiriq2.pdb
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.dll
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\refint\Tapsiriq2.dll
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.pdb
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\Tapsiriq2.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\Tapsiriq2\Tapsiriq2\obj\Debug\net6.0\ref\Tapsiriq2.dll
